@@ -8,7 +8,7 @@ What I enjoy the most about working with a client is learning about their busine
 
 I cannot assure you that I am the best technically in my area, but I can promise to help you form high-performance teams by contributing every little thing that I know and contributing with that different thinking that characterizes me.
 
-- 🔭 I’m currently working on React/Nodejs/
+- 🔭 I’m currently working on React and Nodejs
 - 🌱 I’m currently learning Postgres
 - 👯 I’m looking to collaborate on gaming or entertaiment industry (someday I hope)
 - 🤔 I’m looking for help with my own proyects. Feel free to colaborate 
