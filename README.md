@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Alejandro
 
-I am a Systems Engineer with knowledge in Frontend technologies such as `Reactjs` and `Angular`, and backend technologies such as `nodejs`, `asp.net` and `java` anso I have more than 15 years of experience in technology.
+I am a Systems Engineer with knowledge in Frontend technologies such as `Reactjs` and `Angular`, and backend technologies such as `nodejs`, `asp.net` and `java` also I have more than 15 years of experience in technology.
 
 I am a fan of **anime** and **video games** so I can assure you that my work that is related to technology I always do it for pleasure and not out of obligation.
 
