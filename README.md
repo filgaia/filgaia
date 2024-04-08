@@ -13,7 +13,6 @@ I cannot assure you that I am the best technically in my area, but I can promise
 - 👯 I’m looking to collaborate on gaming or entertaiment industry (someday I hope)
 - 🤔 I’m looking for help with my own proyects. Feel free to colaborate 
 - 💬 Ask me about Javascript Fullstack developments or ASP.NET things
-- 📫 How to reach me: https://twitter.com/filgaiaco
 - ⚡ Fun fact: **Gamer** and **Otaku** of heart
 
 <!--
